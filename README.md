@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Jef, a French web developper planning to move to Canada.
+I'm Jef, a web developper living in Toronto.
 
 - 🌱 I’m currently learning three.js and design patterns.
 - ❤️ I love every aspect of web development: front-end, back-end, devops, you name it!
