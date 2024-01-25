@@ -2,7 +2,7 @@
 
 I'm Jef, a passionate web developer.
 
-- 🌱 I’m currently learning go and svelte.
+- 🌱 I’m currently learning svelte.
 - ❤️ I love every aspect of web development: front-end, back-end, devops, you name it!
 
 I also like to make some [3D stuff](https://jefschoolmeester.vercel.app/)
